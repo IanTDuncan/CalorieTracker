@@ -1,0 +1,27 @@
+CalorieTracker TODO List
+
+10/31/23
+HIGH PRIORITY
+1. Have daily calories change based on the date the user clicks on in the calendar
+2. Tie daily calories per day to userID
+4. Tie calorie goal to USERID
+5. Implement userID into the registration process
+6. Implement all of the above into SQL
+
+LOW PRIORITY
+1. Overhaul the appearance of windows forms to make them more appealing	and navigatable
+2. Have some way of letting the user know when they're over their calorie goal(maybe through changing color of text i.e. green->red)
+3. Show whether the user completes their daily calorie goal per day, week, month, year; probably base this on daily calorie goal(maybe show it via percent(%))
+4. Clean up code
+
+11/14/23
+HIGH PRIORITY
+1. Have daily calories change based on the date the user clicks on in the calendar
+2. Tie daily calories per day to userID
+4. Tie calorie goal to userID
+
+LOW PRIORITY
+1. Overhaul appearance of windows forms to make them more appealing	and navigatable
+2. Have some way of letting the user know when they're over their calorie goal(maybe through changing color of text i.e. green->red)
+3. Show whether the user completes their daily calorie goal per day, week, month, year; probably base this on daily calorie goal(maybe show it via percent(%))
+4. Clean up code
